@@ -1,0 +1,15 @@
+When we toss a coin there are two possibilites 
+1. heads 
+2. tails 
+
+if we can generate a random number between 1 and 2 
+1 means Heads 
+2 means Tails 
+
+
+modules is collection of code that is written by you / third party source 
+in python you can import modules into your program and use them 
+1. inbuilt modules - which you can directly import 
+2. user defined modules - which user will define and import them 
+3. third part modules - which you need to download using a command 
+ex: pip install module_name  this we will see later 

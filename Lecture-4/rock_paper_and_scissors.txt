@@ -1,0 +1,9 @@
+We will assign numerical value to rock , paper and scissors 
+1. Rock 
+2. Paper 
+3. Scissors 
+There are two players 
+1. User -> from user we will take his choice as a number 
+2. program(bot) -> it will randomly generate a number between 1 to 3 
+now find out their choices based on the number 
+here we are going to use conditional statements to decide what has been choose 

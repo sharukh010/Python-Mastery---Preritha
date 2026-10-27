@@ -1,0 +1,6 @@
+Issues in Chatbot
+1 It is unable to answer partial questions 
+2. Space sensitivity 
+3. case sensitivity 
+
+this we will solve in next session 

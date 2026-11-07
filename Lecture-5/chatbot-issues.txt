@@ -1,0 +1,4 @@
+1. Case sensitive 
+2. Space sensitivity 
+3. It is not able to answer partial questions 
+

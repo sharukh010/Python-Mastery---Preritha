@@ -2,8 +2,8 @@
 Randomly generate the traffic light (Red,Orange,Green)
 This light should be hidden from the user 
 You will ask the user to enter the vehicle name (Car,Fire engine,ambulance,bike,police)
-Note: The user may enter the text in mixed case 
-here you need to handle case sensitivity 
+> Note: The user may enter the text in mixed case here you need to handle case sensitivity 
+
 The following vehicles can be allowed to go no matter what the traffic light is 
 1. Fire Engine 
 2. Ambulance 

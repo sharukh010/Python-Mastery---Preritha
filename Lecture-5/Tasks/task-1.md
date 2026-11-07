@@ -9,6 +9,7 @@ The following vehicles can be allowed to go no matter what the traffic light is
 2. Ambulance 
 3. Police 
 remaining vehicles should following the traffic light rules
+
 Sample Input: 
 
 ```text
@@ -21,11 +22,11 @@ Sample Output:
 Traffic Light: Red 
 Decision: STOP 
 ```
-
+Sample Input: 
 ```text
 Enter your Vehicle Name: Fire engine
 ```
-
+Sample Output:
 ```text
 Traffic Light: Red 
 Decision: GO 

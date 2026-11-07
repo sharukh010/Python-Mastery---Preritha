@@ -1,0 +1,6 @@
+vehicle = input()
+vehicle = "Car"
+vehicle = "CAR"
+vehicle = "Fire    Engine"
+if vehicle == "car"
+if vheicle == "fire engine"

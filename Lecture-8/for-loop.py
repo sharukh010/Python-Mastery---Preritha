@@ -38,6 +38,7 @@ name = "preritha"
 # range(1,11) -> 1 to 10 
 # range(1,11,2) ->1,3,5,7,9  
 
-length = len(name)
-for i in range(length): 
-    print(name[i])
+print(name[::-1]) # reverse the sequence 
+# length = len(name)
+# for i in range(length): 
+#     print(name[i])

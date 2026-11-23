@@ -1,0 +1,26 @@
+1. Take the following three values from the user 
+sample Input: 
+Enter starting point: 1 
+Enter ending point: 10 
+Enter skipping point: 5 
+sample output: 
+1
+2
+3
+4
+6
+7
+8
+9
+10
+
+2. Take the following three values from the user 
+sample Input: 
+Enter starting point: 1 
+Enter ending point: 10 
+Enter stop point: 5 
+sample output: 
+1
+2
+3
+4
